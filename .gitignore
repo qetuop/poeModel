@@ -2,6 +2,7 @@ venv
 .idea
 *.pyc
 __pycache__
+#.db
 
 jsonData/*
 json_bak/*
